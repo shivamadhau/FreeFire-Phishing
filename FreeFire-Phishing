@@ -38,7 +38,7 @@ echo ""
                  echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
-                           cd SUMAN/ 
+                           cd /data/data/com.termux/files/usr/bin/SUMAN 
                            cd 1/
 			   echo ""
 			   echo ""
@@ -115,7 +115,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
 		  
                   elif [ $option = 02 ] || [ $option = 2 ]
 	          then
-	                   cd SUMAN/
+	                   cd /data/data/com.termux/files/usr/bin/SUMAN
                            cd 2/         
                            echo ""
 			   echo ""
@@ -192,7 +192,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
                   break;
                   elif [ $option = 03 ] || [ $option = 3 ]
 	          then
-                           cd SUMAN/
+                           cd /data/data/com.termux/files/usr/bin/SUMAN
                            cd 3/
                            echo ""
 			   echo ""
@@ -269,7 +269,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
                  break;
                  elif [ $option = 04 ] || [ $option = 4 ]
 	         then
-                           cd SUMAN/
+                           cd /data/data/com.termux/files/usr/bin/SUMAN
                            cd 4/
                            echo ""
 			   echo ""
@@ -347,7 +347,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
                 break;
                 elif [ $option = 05 ] || [ $option = 5 ]
 	        then 
-                           cd SUMAN/
+                           cd /data/data/com.termux/files/usr/bin/SUMAN
                            cd 5/
                            echo ""
 			   echo ""
@@ -424,7 +424,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing \e[0m\n
                  elif [ $option = 06 ] || [ $option = 6 ]
 	         then
                 
-                           cd SUMAN/
+                           cd /data/data/com.termux/files/usr/bin/SUMAN
                            cd 6/
                            echo ""
 			   echo ""
